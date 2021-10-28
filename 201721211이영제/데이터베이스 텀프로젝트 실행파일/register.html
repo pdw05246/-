@@ -1,0 +1,46 @@
+<body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Register page</title>
+        <link rel="stylesheet" href="register_style.css">
+        <script src="https://kit.fontawesome.com/41cb8446c6.js" crossorigin="anonymous"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    </head>
+    </head>
+    
+    <body>
+        <div class="register-popUp">
+            <div class="web-left">
+                <header>
+                    <h1>환영합니다!</h1>
+                    <div>슬기로운 대학생활에 오신 여러분을 환영합니다.</div>
+                </header>
+    
+                <form action="member_ok.php" method="post" class="register">
+                    <input type="text" name="stu_id" placeholder="아이디" required>
+                    <input type="password" name="pw" placeholder="비밀번호" required>
+                    <select name="dept">
+                        <option value="컴퓨터공학과">컴퓨터공학과</option>
+                        <option value="컴퓨터공학전공">컴퓨터공학전공</option>
+                        <option value="소프트웨어전공">소프트웨어전공</option>
+                    </select>
+                    <input type="text" name="stu_num" placeholder="학번" required>
+                    <input type="number"min="1" max="4" name="grade" placeholder="학년" required>
+                    <button type="submit">Register</button>
+                </form>
+                <div class="back-home">
+                    <div>메인화면으로 돌아가기</div>
+                    <a href="daemoon.php"><i class="fa fa-home fa-2x" aria-hidden="true"></i></a>
+                </div>
+                <div class="log-in">이미 아이디가 있나요?
+                    <a href="login.php" id="log-in">로그인</a>
+                </div>
+            </div>
+            <div class="web-right">
+                <img src="images/kku3.jpg">
+            </div>
+        </div>
+    </body>
+    
+    

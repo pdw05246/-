@@ -1,0 +1,207 @@
+교양
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초물리학', '3', '핵심(자연과학)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초수학', '3', '핵심(자연과학)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('성신의대학생활지도1', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('성신의대학생활지도', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('성신의대학생활지도2', '1', '인성', '1', '');
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('동(기유발)참(여)형학기제', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('성신의대학생활지도1', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('KUGEP1', '3', '기초', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨팅적사고', '2', '기초', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('MOS', '2', '실무', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('영화속의과학', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('현대사회와스포츠', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학물리학', '3', '일선', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('빅데이터프로그래밍', '3', '일선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('성신의대학생활지도2', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('KUGEP2', '3', '기초', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('글쓰기', '3', '기초', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('역사의고전', '2', '기초', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터프로그래밍', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('미래의과학', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('인공지능의이해', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('취업전략수립및역량개발1', '2', '심화', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('국가생활과권리', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('토익1', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('학술정보의탐색및활용', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('진로설정과경력개발', '2', '소양', '0', '');
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터공학개론', '3', '전선', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('이산수학', '3', '전선', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('C++프로그래밍', '3', '학부공통', '3', '');
+
+
+2017
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('ICT융합공학개론', '3', '학부공통', '2', '컴퓨터공학개론');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('공학수학', '3', '학부공통', '2', '이산수학');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('고급프로그래밍언어', '3', '학부공통', '2', 'C++프로그래밍');
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('자료구조', '3', '전필', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터구조', '3', '전필', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('데이터베이스', '3', '전필', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('운영체제', '3', '전필', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('소프트웨어종합설계', '3', '전필', '4', '');
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Java프로그래밍1', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('웹프로그래밍', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('디지털논리회로', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('UNIX시스템', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Java프로그래밍2', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('시스템프로그래밍', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('창의공학설계', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('데이터통신', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('프로그래밍언어론', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터알고리즘', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('ObjectiveC프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('안드로이드프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('고급웹프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('인간컴퓨터상호작용', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('소프트웨어공학', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('iOS프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('빅데이터기초', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터네트워크', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터그래픽스', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터보안', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('시스템관리', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('데이터과학', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('IT창업', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('멀티미디어시스템', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('프로젝트종합설계', '3', '전선', '4', '');
+
+
+2018 ~ 2019
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('ICT융합공학개론', '3', '학부공통', '1', '컴퓨터공학개론');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학수학', '3', '학부공통', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('일반물리학및실험', '3', '학부공통', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터프로그래밍', '3', '학부공통', '1', '');
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('자료구조', '3', '전필', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터구조', '3', '전필', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('데이터베이스', '3', '전필', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('운영체제', '3', '전필', '3', '');
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Java프로그래밍1', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('웹프로그래밍', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('디지털논리회로', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('이산수학', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('프로그래밍실습', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('C++프로그래밍', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('UNIX시스템', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('시스템프로그래밍', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('창의공학설계', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Java프로그래밍2', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('데이터통신', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Swift프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터알고리즘', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('안드로이드프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('고급웹프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('소프트웨어공학', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('iOS프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('빅데이터기초', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터네트워크', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('데이터과학', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('게임프로그래밍', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('소프트웨어종합설계', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('인간컴퓨터상호작용', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('기계학습', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터보안', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('시스템관리', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('멀티미디어시스템', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('프로젝트종합설계', '3', '전선', '4', '');
+
+
+2020
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('ICT융합공학개론', '3', '학부공통', '1', '컴퓨터공학개론');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학수학', '3', '학부공통', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('일반물리학및실험', '3', '학부공통', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터프로그래밍', '3', '학부공통', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('K-Project', '1', '학부공통', '1', '');
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('자료구조', '3', '전필', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터구조', '3', '전필', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('데이터베이스', '3', '전필', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('운영체제', '3', '전필', '3', '');
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Java프로그래밍1', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('웹프로그래밍', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('디지털논리회로', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('이산수학', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('프로그래밍실습', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Nano-LAB기초1', '1', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Nano-LAB기초2', '1', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('C++프로그래밍', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('UNIX시스템', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('시스템프로그래밍', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('창의공학설계', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Java프로그래밍2', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('데이터통신', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Swift프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터알고리즘', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Nano-LAB심화1', '1', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Nano-LAB심화2', '1', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('안드로이드프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('고급웹프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('소프트웨어공학', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('iOS프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('빅데이터기초', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터네트워크', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('데이터과학', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('게임프로그래밍', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('소프트웨어종합설계', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('인간컴퓨터상호작용', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('기계학습', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터보안', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('시스템관리', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('멀티미디어시스템', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('프로젝트종합설계', '3', '전선', '4', '');
+
+
+2021
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터공학개론', '3', '전필', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('자료구조', '3', '전필', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터구조', '3', '전필', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('데이터베이스', '3', '전필', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('운영체제', '3', '전필', '3', '');
+
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('K-Project', '1', '학부공통', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('UNIX시스템', '3', '전선', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터프로그래밍', '3', '학부공통', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학수학', '3', '전선', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('이산수학', '3', '전선', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('전산통계', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Java프로그래밍1', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('웹프로그래밍', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('디지털논리회로', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('프로그래밍실습', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Nano-LAB기초1', '1', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Nano-LAB기초2', '1', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('C++프로그래밍', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('시스템프로그래밍', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('창의공학설계', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Java프로그래밍2', '3', '전선', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('데이터통신', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Swift프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터알고리즘', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Nano-LAB심화1', '1', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('Nano-LAB심화2', '1', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('안드로이드프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('고급웹프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('소프트웨어공학', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('iOS프로그래밍', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('빅데이터기초', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터네트워크', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('데이터과학', '3', '전선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('게임프로그래밍', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('소프트웨어종합설계', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('인간컴퓨터상호작용', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('인공지능컴퓨터보안', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('기계학습', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터보안', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('시스템관리', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('멀티미디어시스템', '3', '전선', '4', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('프로젝트종합설계', '3', '전선', '4', '');

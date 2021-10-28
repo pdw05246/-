@@ -1,0 +1,124 @@
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('영화속의과학', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('현대사회와스포츠', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학물리학', '3', '심화', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('빅데이터프로그래밍', '3', '일선', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('미래의과학', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('인공지능의이해', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('취업전략수립및역량개발1', '2', '심화', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('국가생활과권리', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('토익1', '2', '심화', '0', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('학술정보의탐색및활용', '2', '심화', '0', '');
+
+-----------------------------------2017--------------------------------
+쿠인성
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('동(기유발)참(여)형학기제', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('성신의대학생활지도1', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('성신의대학생활지도2', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('건학정신과대학생활', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('지역사회봉사', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('중원역사문화론(충주의삶과문화)', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('인성개발을위한연극실습', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('글로컬교양특강', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('커뮤니케이션과글로컬시티즌십', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('문화간소통탄뎀체험', '1', '인성', '1', '');
+기초교양
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('글쓰기', '3', '기초(의사소통)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('글쓰기1', '3', '기초(의사소통)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('글쓰기2', '3', '기초(의사소통)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('KUGEP1', '3', '기초(국제화)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('KUGEP2', '3', '기초(국제화)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('중국어기초', '3', '기초(국제화)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('프랑스어기초', '3', '기초(국제화)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('러시아어기초', '3', '기초(국제화)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('문학의고전', '2', '기초(인문사고)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('역사의고전', '2', '기초(인문사고)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('철학의고전', '2', '기초(인문사고)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨팅적사고', '3', '기초(과학사고)', '1', '');
+실무소양
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('포토샵과일러스트레이터', '2', '실무(IT활용)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('MOS', '2', '실무(IT활용)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('취업전략수립및커리어개발', '2', '실무(직업과창의)', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('기업분석과NCS직무수행능력', '2', '실무(직업과창의)', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학생창업실습', '2', '실무(직업과창의)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('성공창업CEO특강', '1', '실무(직업과창의)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('실전취업전략1', '2', '실무(직업과창의)', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('실전취업전략2', '2', '실무(직업과창의)', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('여대생진로탐색과커리어설계', '2', '실무(직업과창의)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('진로설정과경력개발', '2', '실무(직업과창의)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('취업이미지와면접스피치', '2', '실무(직업과창의)', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('NCS직업기초능력', '2', '실무(직업과창의)', '1', '');
+계열핵심
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('계열별글쓰기(자연과학)', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('도시환경의이해', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('자연과치유', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초수학', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터프로그래밍', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초물리학', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초화학', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초생물학1', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초생물학2', '3', '핵심', '1', '');
+
+
+-----------------------------------2018--------------------------------
+쿠인성
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('성신의대학생활지도1', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('성신의대학생활지도2', '1', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('건학정신과대학생활', '2', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('나우리택견인성', '2', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('지역사회봉사', '2', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('중원역사문화론(충주의삶과문화)', '2', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('인성개발을위한연극실습', '2', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('글로컬교양특강', '2', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('커뮤니케이션과글로컬시티즌십', '2', '인성', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('문화간소통탄뎀체험', '2', '인성', '1', '');
+기초교양
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('글쓰기', '3', '기초(의사소통)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('글쓰기1', '3', '기초(의사소통)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('글쓰기2', '3', '기초(의사소통)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('발표와토론', '3', '기초(의사소통)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('문학의고전', '3', '기초(인문사고)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('역사의고전', '3', '기초(인문사고)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('철학의고전', '3', '기초(인문사고)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('기초통계학', '3', '기초(과학사고)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초물리학', '3', '기초(과학사고)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초생물학', '3', '기초(과학사고)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초수학', '3', '기초(과학사고)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초화학', '3', '기초(과학사고)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨팅적사고', '3', '기초(과학사고)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('KUGEP1', '3', '기초(국제화)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('KUGEP2', '3', '기초(국제화)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('중국어기초', '3', '기초(국제화)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('프랑스어기초', '3', '기초(국제화)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('러시아어기초', '3', '기초(국제화)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('일본어기초', '3', '기초(국제화)', '1', '');
+실무소양
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('포토샵과일러스트레이터', '2', '실무(IT활용)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('MOS', '2', '실무(IT활용)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('취업전략수립및커리어개발', '2', '실무(직업과창의)', '2', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('기업분석과NCS직무수행능력', '2', '실무(직업과창의)', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학생창업실습', '2', '실무(직업과창의)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('성공창업CEO특강', '1', '실무(직업과창의)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('실전취업전략1', '2', '실무(직업과창의)', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('실전취업전략2', '2', '실무(직업과창의)', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('여대생진로탐색과커리어설계', '2', '실무(직업과창의)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('진로설정과경력개발', '2', '실무(직업과창의)', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('취업이미지와면접스피치', '2', '실무(직업과창의)', '3', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('NCS직업기초능력', '2', '실무(직업과창의)', '1', '');
+계열핵심
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('계열별글쓰기(자연과학)', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('도시환경의이해', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('자연과치유', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초수학', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('컴퓨터프로그래밍', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초물리학', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초화학', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초생물학1', '3', '핵심', '1', '');
+INSERT INTO `modeldb`.`sub_tbl` (`sub_name`, `credit_num`, `class_type`, `appli_grade`, `alt_sub`) VALUES ('대학기초생물학2', '3', '핵심', '1', '');
+
+
+
+
+
+
+
+
